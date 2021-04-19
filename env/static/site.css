@@ -2,3 +2,32 @@
   font-weight: 900;
   color: blue;
 }
+
+.navbar {
+  background-color: cornflowerblue;
+  font-size: 2em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: cornsilk;
+  padding: 8px 5px 8px 5px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navbar-brand {
+  font-size: 2.2em;
+  font-weight: 700;
+}
+
+.navbar-item {
+  font-variant: small-caps;
+  margin-left: 30px;
+}
+
+.body-content {
+  padding: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
